@@ -1,4 +1,4 @@
-Welcome to my digital canvas! I'm **Hervé Luyindula**, a passionate **software developer** from Lagos, Nigeria, with a rich **10+ years of experience** in the tech realm. My academic background in **Business Administration** has uniquely equipped me to blend **innovative technology solutions** with strategic business insights, driving transformative growth and operational efficiency.
+Welcome to my digital canvas! I'm **Hervé Luyindula**, a passionate **software developer** with a rich **10+ years of experience** in the tech realm. My academic background in **Business Administration** has uniquely equipped me to blend **innovative technology solutions** with strategic business insights, driving transformative growth and operational efficiency.
 
 Throughout my career, I've led transformative projects as the **Founder & CEO** of **Kivélor Travels** and **Armoire: The Trend Closet**, spearheading digital overhauls that significantly enhanced business performance. My role as an **IT Instructor & Consultant** reflects my commitment to nurturing talent and fostering innovation in the tech space.
 
